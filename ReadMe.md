@@ -15,4 +15,7 @@ Steps to execute the program:
 * Run the implementation part in the last cell of the  Sign Language_8thSEM.pynb file
 
 
+![image](https://user-images.githubusercontent.com/42889852/127875841-8ebf278f-8527-4f36-b640-9a848e00fe26.png)
+
+
 # THANK YOU
