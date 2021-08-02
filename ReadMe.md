@@ -21,5 +21,6 @@ Steps to execute the program:
 # THANK YOU
 
 Team Members:
-@kongkonpratim29
-@bedantadeka23
+- Kongkon Pratim Saikia
+- Bedanta Protim Deka
+- Ambar Kashyap
