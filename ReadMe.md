@@ -13,9 +13,9 @@ Steps to execute the program:
 * Run the Sign Language_8thSEM.ipynb file
 * Then load the two models
 * Run the implementation part in the last cell of the  Sign Language_8thSEM.pynb file
+* ![gui APP](https://user-images.githubusercontent.com/42889852/127876167-dbd14c54-f7ca-41d0-aafb-e8e7185a098b.jpeg)
 
 
-![image](https://user-images.githubusercontent.com/42889852/127875841-8ebf278f-8527-4f36-b640-9a848e00fe26.png)
 
 
 # THANK YOU
