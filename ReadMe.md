@@ -22,5 +22,5 @@ Steps to execute the program:
 
 Team Members:
 - Kongkon Pratim Saikia
-- Bedanta Protim Deka
+- [Bedanta Protim Deka](https://github.com/bedantadeka23)
 - Ambar Kashyap
